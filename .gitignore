@@ -3,4 +3,7 @@
 */.idea/
 .idea/
 tmp
-upload
+/upload/attach/*
+/upload/avatar/*
+/upload/forum/*
+/upload/tmp/*
