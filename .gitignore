@@ -6,3 +6,4 @@ tmp
 # log
 install
 conf/conf.php
+conf/conf.php.bak
