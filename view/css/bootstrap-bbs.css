@@ -303,6 +303,9 @@ li.quote {
 .hidden{
   display: none !important;
 }
+.hide {
+  visibility:hidden;
+}
 .show {
   display: block !important;
 }
