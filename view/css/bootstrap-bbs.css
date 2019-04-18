@@ -300,3 +300,9 @@ li.quote {
   color: #fff;
   font-weight: 800;
 }
+.hidden{
+  display: none !important;
+}
+.show {
+  display: block !important;
+}
